@@ -1,6 +1,6 @@
 # Pokemon Stats Analysis
 
-The dataset I used https://www.kaggle.com/datasets/abcsds/pokemon(goes up to gen 6)
+The dataset I used https://www.kaggle.com/datasets/abcsds/pokemon (goes up to gen 6)
 
 # What I learn/Explored
 -How much an advantages/stronger does a Duel Type pokemon is than a Mono Type pokemon as more stronger them are normally in game but in more of spread out
