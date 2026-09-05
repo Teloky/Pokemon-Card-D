@@ -12,10 +12,14 @@ The dataset I used https://www.kaggle.com/datasets/abcsds/pokemon (goes up to ge
 -All pokemon vs Pokemon that one typying or/and have a second type doesnt matter what is it the line of best fit still goes through the graph basically the same. Was expecting pokemon with a second typying would be more because second type is from Pokemon that have evolved before but I guess not.
 
 ## Charts
-Legendary (![alt te](<Generation Legendary Line.png>)),![](<Generation Legendary Box.png>)
+Legendary 
+![alt te](<Generation Legendary Line.png>)),![](<Generation Legendary Box.png>)
 
-Mono type ![](<Mono type only.png>)
+Mono type 
+![](<Mono type only.png>)
 
-Duel ![alt text](<Di type.png>)
+Duel 
+![alt text](<Di type.png>)
 
-All ![alt text](<All Pokemon.png>)
+All 
+![alt text](<All Pokemon.png>)
